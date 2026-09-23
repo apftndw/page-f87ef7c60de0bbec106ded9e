@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "96521d3d142a7b2036754a9e",
+  "owner": "apftndw",
+  "repo": "page-f87ef7c60de0bbec106ded9e",
+  "title": "貓貓互聯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f87ef7c60de0bbec106ded9e",
+      "a": "貓貓互聯",
+      "b": "2027最新官网",
+      "entity": "貓貓互聯",
+      "brand": "貓貓互聯",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9b4ebc4eeb5ebee64981c0f787990d92fa3ca68a1c06185760dc6842419ea889",
+      "content": {
+        "primary_entity": "貓貓互聯",
+        "keyword1": "貓貓互聯",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，Windows 常用 Clash Verge，macOS 可选 ClashX，Android 用 v2rayNG，iOS 用 Shadowrocket。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选定套餐后按客户端文档完成订阅导入，就能在对应设备上启用。",
+          "AI_CLOSING_TITLE": "选好套餐即可开始",
+          "AI_DESCRIPTION": "，提供 基础版、旗舰版、团队版 三档订阅，月付 ¥15 起，按年付更划算。旗舰版面向多设备与流媒体场景，团队版适合 20 台设备同时在线。",
+          "AI_FEATURES_INTRO": "围绕设备数量、月流量与订阅周期三个变量，找到适合日常使用的档位。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，适合 3 台设备；旗舰版每月 300GB，支持 5 台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB，最多 20 台设备同时在线，适合小型团队统一配置订阅。",
+          "AI_FEATURE_TEXT_3": "三档均提供月付与年付，年付折算到每月更低，长期使用优先考虑按年订阅。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "多人共享",
+          "AI_FEATURE_TITLE_3": "周期与价格",
+          "AI_GUIDE_INTRO": "从套餐选择到客户端订阅导入，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "貓貓互聯提供多档海外加速订阅，覆盖基础浏览、流媒体解锁与团队多设备场景。选好套餐后按客户端文档导入订阅，即可在手机、电脑上使用。",
+          "AI_HERO_SUBTITLE": "多档订阅覆盖日常加速需求",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "最多 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "流媒体与游戏线路可选",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量和设备数上递增，按需对比后再决定月付或年付。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认常用设备数量与每月流量需求，再对照三档套餐的数值选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与客户端类型是否匹配。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅地址，完成配置后在对应设备上启用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "貓貓互聯订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按设备数量和月流量选即可。",
+          "AI_FAQ_ANSWER_2": "在客户端中订阅配置通常通过导入订阅链接完成。具体操作可依照所用客户端的说明文档进行，不同客户端界面有所差异。",
+          "AI_FAQ_ANSWER_3": "基础版与旗舰版适合个人日常使用；旗舰版含 IPLC 专线，对游戏延迟敏感的用户更合适；团队版面向多设备与需要定制路由的场景。",
+          "AI_FAQ_ANSWER_4": "三个套餐均提供按月与按年两种周期。按年付可节省费用，例如基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年。",
+          "AI_FAQ_ANSWER_5": "同一账号可同时在线的设备数量取决于套餐：基础版 3 台、旗舰版 5 台、团队版 20 台。超出后新增设备需切换或升级套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数怎么区分？",
+          "AI_FAQ_QUESTION_2": "订阅导入客户端需要哪些步骤？",
+          "AI_FAQ_QUESTION_3": "哪个套餐更适合游戏或流媒体？",
+          "AI_FAQ_QUESTION_4": "按月付和按年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9iq8fu37l.com",
+    "host": "xn--9iq8fu37l.com"
+  },
+  "file_hashes": {
+    "index.html": "b2b3975d8e98ed3614a794906002c0f9fa3b06c22d4e36050804b150fb3a710f",
+    "sitemap.xml": "6c46c721edbabf109bd099417adfe49b35361b833a0a248229a89f944e406e49",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1c5547d2d2bb25acb724b7de8669c7a6a9842c64052ec4f98599e4826c535fb8",
+    "robots.txt": "efdfbad82c0e9cc3acdd4f5bbed0603d382b14a02c42dc84c32b6f403148a249",
+    "7d994068c3e62c5a054c3fce89978e3f.txt": "e774afb967a9b992b7725b0da69412fb92827c28e37db28ee4a0c2bfca112f01"
+  },
+  "revision": "29bd6e4327c72fe156229924c09824f8a4619b423d28d18fcca6db2eb937abbd"
+}
